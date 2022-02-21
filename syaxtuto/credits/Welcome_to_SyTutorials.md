@@ -1,0 +1,46 @@
+---
+Time-stamp: <2022-02-20 ()>
+credits: true
+
+---
+
+# Welcome to SyTutorials
+
+**Special thanks to the following for my virtual avatar and office**\
+\- Yanns (Yanis Ladjouzi) at Pixabay for the lion wearing a classic suit with a red tie\
+[https://pixabay.com/illustrations/tie-classic-suit-shirt-lion-1140435/](https://pixabay.com/illustrations/tie-classic-suit-shirt-lion-1140435/)\
+[https://pixabay.com/users/yanns-1271950/](https://pixabay.com/users/yanns-1271950/) Pixabay Profile\
+\- Alex World at Pngtree for the "Formal Black Suit Free Png Pad Image Free Vector and PNG"\
+[https://pngtree.com/freepng/formal-black-suit-free-png-pad-image_6130714.html](https://pngtree.com/freepng/formal-black-suit-free-png-pad-image_6130714.html)\
+[https://pngtree.com/alex-world_25101809](https://pngtree.com/alex-world_25101809) Pngtree profile\
+\- Janine Lamontagne at gettyimages for "Dark, empty office with clock on the wall - stock photo"\
+[https://www.gettyimages.com/detail/photo/dark-empty-office-with-clock-on-the-wall-royalty-free-image/154924850](https://www.gettyimages.com/detail/photo/dark-empty-office-with-clock-on-the-wall-royalty-free-image/154924850)\
+[https://lamontagnephotography.com/](https://lamontagnephotography.com/) Personal Website\
+[https://www.behance.net/janinelamontagne](https://www.behance.net/janinelamontagne) Behance Profile\
+[https://www.linkedin.com/in/lamontagnephotography/](https://www.linkedin.com/in/lamontagnephotography/) LinkedIn Profile\
+[https://www.facebook.com/JanineLamontagnePhotography](https://www.facebook.com/JanineLamontagnePhotography) Facebook\
+[https://www.instagram.com/photog_janine/](https://www.instagram.com/photog_janine/) Instagram\
+[https://www.gettyimages.com/search/photographer?family=creative&photographer=Janine+Lamontagne](https://www.gettyimages.com/search/photographer?family=creative&photographer=Janine+Lamontagne) gettyimages profile
+
+# Music:
+\- Wavetable by Patricia Taxxon\
+[https://youtu.be/p9zuIoJ-y3M](https://youtu.be/p9zuIoJ-y3M) Patricia Taxxon - Wavetable (Title Track)\
+[https://youtu.be/Pwt3G1rUAus](https://youtu.be/Pwt3G1rUAus) Wavetable by Patricia Taxxon but it's only the good parts\
+[https://youtu.be/szsvBK3\_-As](https://youtu.be/szsvBK3_-As) Patricia Taxxon - Wavetable [Full Album]\
+[https://patriciataxxon.bandcamp.com/](https://patriciataxxon.bandcamp.com/) Bandcamp Profile\
+[https://www.youtube.com/channel/UCOjLfFE0TABS9bk05oH-kgw](https://www.youtube.com/channel/UCOjLfFE0TABS9bk05oH-kgw) Youtube Channel\
+[https://patriciataxxon.bandcamp.com/track/wavetable](https://patriciataxxon.bandcamp.com/track/wavetable) Buy the Wavetable track from Bandcamp\
+[https://patriciataxxon.bandcamp.com/album/wavetable](https://patriciataxxon.bandcamp.com/album/wavetable) Buy the Wavetable album from Bandcamp\
+[https://twitter.com/PatriciaTaxxon](https://twitter.com/PatriciaTaxxon) Twitter Profile\
+[https://www.patreon.com/PatriciaTaxxon](https://www.patreon.com/PatriciaTaxxon) Patreon Page
+
+# Software:
+\-Screencasting/screen capturing software: OBS (Open Broadcasting Software)\
+[https://obsproject.com/](https://obsproject.com/) Official Website\
+[https://github.com/obsproject/obs-studio](https://github.com/obsproject/obs-studio) Github Repository\
+[https://opencollective.com/obsproject](https://opencollective.com/obsproject) Open Collective Page\
+[https://www.patreon.com/obsproject/overview](https://www.patreon.com/obsproject/overview) Patreon Page\
+\-Video Editing software: Vegas Pro 18.0 from Vegas Creative Software (by MAGIX Software)\
+[https://www.vegascreativesoftware.com/us/vegas-pro/](https://www.vegascreativesoftware.com/us/vegas-pro/) Official Website\
+\-Operating System: Windows 10 by Microsoft\
+[https://www.microsoft.com/en-us/windows/get-windows-10](https://www.microsoft.com/en-us/windows/get-windows-10) Official Website
