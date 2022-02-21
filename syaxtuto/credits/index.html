@@ -1,11 +1,1 @@
 This is a list to every page where I give credits to any resource I use in my videos
-
-<!-- Thanks to m-renaud from StackOverflow https://stackoverflow.com/a/17913214/17118330 -->
-
-<ul>
-  {% for page in site.pages %}
-    {% if page.credits == true %}
-      <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-    {% endif %}   <!-- resource-p -->
-  {% endfor %}  <!-- page -->
-</ul>
