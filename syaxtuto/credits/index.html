@@ -10,7 +10,7 @@ This is a list to every page where I give credits to any resource I use in my vi
 <ul>
   {% for page in site.pages %}
     {% if page.credits == true %}
-      <li><a href="/syaxtuto{{ page.url }}">{{ page.title }}</a></li>
+      <li><a href="{{ page.url }}">{{ page.title }}</a></li>
     {% endif %}   <!-- resource-p -->
   {% endfor %}  <!-- page -->
 </ul>
